@@ -14,8 +14,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException, WebDriverException
 
 
-URL_LOGIN = "https://www.cenprotsc.com.br/ieptb/view/ferramenta/login.xhtml"
-URL_CNPJ = "https://www.cenprotsc.com.br/ieptb/view/ferramenta/buscacnpj.xhtml"
+URL_LOGIN = ""
+URL_CNPJ = ""
 USUARIO = ""
 SENHA = ""
 ARQUIVO_SAIDA = "resultado_cnpjs.xlsx"
